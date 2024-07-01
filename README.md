@@ -1,6 +1,7 @@
 # INTRODUCING SmartCalc
 
 📱 SmartCalc - Your Handy Android Calculator
+
 🧮 Overview
 Welcome to SmartCalc, the intuitive and powerful calculator app designed to make complex calculations a breeze! Developed using Android Studio, SmartCalc is your perfect companion for everyday math tasks, whether you're at home, in school, or at work.It aims towards providing solutions to tricky and long calculations which are out of reach of human mind.
 
